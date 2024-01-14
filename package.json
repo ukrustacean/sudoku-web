@@ -1,0 +1,16 @@
+{
+  "name": "sudoku-web",
+  "version": "1.0.0",
+  "description": "Web-based interface for https://github.com/ukrustacean/sudoku-rs",
+  "repository": "https://github.com/ukrustacean/sudoku-web.git",
+  "author": "Ivan \"ukrustacean\" Dereviankin <ukrustacean@gmail.com>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.18.1",
+    "@typescript-eslint/parser": "^6.18.1",
+    "eslint": "^8.56.0",
+    "parcel": "^2.11.0",
+    "prettier": "^3.2.1",
+    "typescript": "^5.3.3"
+  }
+}
